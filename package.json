@@ -1,0 +1,26 @@
+{
+  "name": "fastfollower",
+  "version": "1.0.0",
+  "description": "Follows list of friends that a target twitter handle follows and retweets anything that user would see on their TL.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeBengtson/FastFollower.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot"
+  ],
+  "author": "Mike Bengtson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeBengtson/FastFollower/issues"
+  },
+  "homepage": "https://github.com/MikeBengtson/FastFollower#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
